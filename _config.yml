@@ -1,3 +1,2 @@
-# Tells GitHub Pages to include the .well-known folder
 include:
   - .well-known
