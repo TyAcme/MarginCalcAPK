@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.tyacme.twa",
+        "sha256_cert_fingerprints": ["59:9A:4C:D0:CA:E0:11:81:1B:82:0B:F1:0B:DF:84:0C:B5:31:EE:85:61:B7:65:FB:C2:5D:F9:9B:86:AE:45:7F"]
+      }
+    }]
